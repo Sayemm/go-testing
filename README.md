@@ -11,7 +11,6 @@ This repository documents my hands-on learning journey with go tests — each co
     - Hello World Test
 
 ## Learning Resource
-
-**YouTube Tutorial Playlist:**  
+ 
 [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
 
